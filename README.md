@@ -2,6 +2,8 @@
 
 ## 1. To Run
 
+** Pre-requisites: You will need python installed and streamlit package. See streamlit site on installation steps for streamlit
+
 Clone this folder, and at the root of project run
 
 ```bash
